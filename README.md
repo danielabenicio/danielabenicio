@@ -1,6 +1,6 @@
 # Oi, eu sou a Daniela Benicio 👋
 
-Moro em Uberlândia (MG). Sou apaixonada por segurança da informação desde muito antes de isso ser o meu cargo. Amo sistemas operacionais e bancos de dados e, longe da tecnologia, a natureza e os instrumentos musicais. 🌿🎶
+Moro em Uberlândia (MG). Sou apaixonada por segurança da informação desde muito antes de isso ser o meu cargo. Amo sistemas operacionais, bancos de dados, e longe da tecnologia, a natureza e os instrumentos musicais. 🌿🎶
 
 Estou na tecnologia desde 2003. Já fui a pessoa que mantém o servidor de pé, a DBA que cuida dos dados e a líder que segura a sala de crise. Hoje lidero os times de cibersegurança de CloudSec, AppSec, EdgeSec, AI Sec e Sec Products & AI Security Agents no Grupo Magalu, mas o que me move continua o mesmo: **entender como as coisas funcionam por dentro**, e depois descobrir como elas quebram.
 

@@ -1,7 +1,5 @@
 # Oi, eu sou a Daniela Benicio 👋
 
-Moro em Uberlândia (MG). Sou apaixonada por segurança da informação desde muito antes de isso ser o meu cargo. Amo sistemas operacionais, bancos de dados, e longe da tecnologia, a natureza e os instrumentos musicais. 🌿🎶
-
 Estou na tecnologia desde 2003. Já fui a pessoa que mantém o servidor de pé, a DBA que cuida dos dados e a líder que segura a sala de crise. Hoje lidero os times de cibersegurança de CloudSec, AppSec, EdgeSec, AI Sec e Sec Products & AI Security Agents no Grupo Magalu, mas o que me move continua o mesmo: **entender como as coisas funcionam por dentro**, e depois descobrir como elas quebram.
 
 ### 🌱 Neste momento
@@ -12,8 +10,8 @@ Estou na tecnologia desde 2003. Já fui a pessoa que mantém o servidor de pé, 
   - **Segurança de LLMs**: *prompt injection* direta e indireta, *jailbreaks* e vazamento de dados de treinamento
   - **Agentes autônomos**: riscos de *Tool Calling*, MCP Servers e excesso de autonomia (*excessive agency*)
   - **Defesas**: *guardrails* determinísticos x probabilísticos, *red teaming* de IA e cadeia de suprimentos de modelos
-- 🎓 Formada em Ciência da Computação e mestranda em Segurança da Informação e IA na UFU
-- 🔥 Forjando, a muitas mãos, o **[AI Security Forge](https://ai-security-forge.github.io)**: uma comunidade aberta onde segurança de IA se aprende na prática, construindo, quebrando, protegendo e compartilhando juntos
+- 🎓 Formada em Ciência da Computação e na tentativa de ser mestranda em Segurança da Informação e IA na UFU
+- 🔥 Forjando, a muitas mãos, o **[AI Security Forge](https://ai-security-forge.github.io)**: uma comunidade aberta onde segurança de IA se aprende na prática, construindo, quebrando, protegendo e compartilhando juntos.
 
 ### 💜 No que eu acredito
 

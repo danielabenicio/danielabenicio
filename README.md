@@ -24,7 +24,7 @@ Conhecimento bom é conhecimento compartilhado. Muito do que eu sei aprendi em c
 - fazendo parte do **Hackerspace Área 31**
 - circulando pelos eventos de cibersegurança do Brasil, sempre que dá
 
-Se você também curte segurança, IA, Sistemas Operacionais, Banco de Dados ou só quer trocar uma ideia, vem conversar comigo!
+Se você também curte Cibersegurança, IA, Sistemas Operacionais, Banco de Dados ou só quer trocar uma ideia, vem conversar comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniela%20Benicio-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielabenicio)
 [![AI Security Forge](https://img.shields.io/badge/AI%20Security%20Forge-111111)](https://ai-security-forge.github.io)

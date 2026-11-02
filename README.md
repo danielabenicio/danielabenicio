@@ -1,4 +1,4 @@
-# Oi, eu sou a Daniela 👋
+# Oi, eu sou a Daniela Benicio 👋
 
 Moro em Uberlândia (MG). Sou apaixonada por segurança da informação desde muito antes de isso ser o meu cargo. Amo sistemas operacionais e bancos de dados e, longe da tecnologia, a natureza e os instrumentos musicais. 🌿🎶
 
